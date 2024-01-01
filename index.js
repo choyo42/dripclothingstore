@@ -87,6 +87,6 @@ let cart = [];
 
       function openWhatsApp() {
         // Replace 'your_phone_number' with your actual phone number
-        window.open('https://wa.me/0750839527', '_blank');
+        window.open('https://wa.me/+254750839527', '_blank');
       }
       
