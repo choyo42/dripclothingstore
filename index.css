@@ -71,7 +71,7 @@ body {
     display: flex;
     overflow-x: auto; /* Enable horizontal scrolling */
     white-space: nowrap; /* Prevent items from wrapping to the next line */
-    padding: 30px; /* Add padding to improve readability */
+    padding: 40px; /* Add padding to improve readability */
     animation: slide-in 0.5s ease-in-out; /* Add slide-in animation */
   }
 
@@ -80,7 +80,7 @@ body {
     position: relative;
     width: calc(12.5% - 10px); /* 12.5% for 8 columns with 20px margin */
     margin: 0 10px; /* Add some space between cards */
-    padding: 10px;
+    padding: 8px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -125,7 +125,7 @@ body {
 
   .cart-icon {
     position: fixed;
-    bottom: 60px;
+    bottom: 30px;
     right: 30px;
     font-size: 30px;
     color: #007bff;
