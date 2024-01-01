@@ -268,7 +268,7 @@ section.about {
   color: #fff;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  width: 50%;
+  width: 70%;
 }
 
 .contact-details p {
@@ -277,7 +277,7 @@ section.about {
 
 /* Email Form styles */
 .email-form {
-  max-width: 600px;
+  max-width: 500px;
   margin: 20px auto;
   padding: 20px;
   background-color: blue;
